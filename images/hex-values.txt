@@ -1,0 +1,7 @@
+            Red    Green   Blue     Alpha(Transparency)
+
+RGB 0-255   255     0       0           .5 (half opaque/transparent)
+
+HEX 0123456789abcdef
+
+            FF      00      00  == #F00
