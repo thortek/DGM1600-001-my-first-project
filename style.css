@@ -72,12 +72,21 @@ ul {
     padding: 1rem;
 }
 
-#tech img {
-    height: 160px;
+figure {
+    text-align: center;
+}
+
+figure > img {
+    height: 150px;
+    max-width: 150px;
 }
 
 figcaption {
     text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    max-width: 150px;
+    position: relative;
+    top: -20px;
 }
 
 #learn {
